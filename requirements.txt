@@ -1,0 +1,5 @@
+sqlalchemy
+asyncpg
+aiogram
+pillow
+python-dotenv
